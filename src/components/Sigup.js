@@ -49,7 +49,7 @@ const Register = () => {
                  <Textfield label="First Name" name="firstname" type="text"/>
                         <Textfield label="Last Name" name="lastname" type="text" />
                         <Textfield label="Email" name="email" type="email" />
-                        <Textfield label="password" name="password" type="password" />
+                        <Textfield label="Password" name="password" type="password" />
                         <Textfield label="Confirm password" name="confirmpassword" type="password" />
                 <button type="submit" className="submit" onClick={Register} >Register</button>
                 <button type="reset" className="reset">Reset</button>

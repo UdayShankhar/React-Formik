@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Signup from './components/Sigup';
-import signin from './signin.svg';
+import signin from './images/girl.png'
 
 
 function App() {
